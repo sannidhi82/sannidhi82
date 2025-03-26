@@ -30,7 +30,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sannidhi82&theme=radical&margin-w=15&no-bg=true&no-frame=true)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sannidhi82&theme=github-dark)  
 
-![GitHub Contribution Snake](https://github.com/sannidhi82/sannidhi82/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/sannidhi82/main/dist/github-contribution-grid-snake.svg)
+
 
 
 ---
