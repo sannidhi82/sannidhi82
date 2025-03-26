@@ -10,12 +10,12 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhi82&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sannidhi82&layout=compact&theme=radical)  
 
 ## 🔥 Contribution Graph  
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sannidhi82&theme=github-dark)  
 
 
 ### ✍️ Random Dev Quote
